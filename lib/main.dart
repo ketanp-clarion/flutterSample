@@ -115,3 +115,9 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+// Options Flutter CI / CD
+//-- Github + Github Action. On Push APK is created and uploaded on Git. - Done
+//-- Gitlab + Fastlane.
+//    Prerequisite : Gitlab Project, Fastlane account, Play store account. Apple Account without 2FA
+//-- Gitlab + Docker
+//    Prerequisite : Gitlab Project, Gitlab Runner install on Server.
